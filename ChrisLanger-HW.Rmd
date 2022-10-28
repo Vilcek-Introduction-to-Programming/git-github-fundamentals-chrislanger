@@ -1,0 +1,22 @@
+---
+title: "ChrisLanger-HW"
+output: html_document
+date: "2022-10-28"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What I've learned about GitHub
+
+I've used GitHub for a few years, but it's been mostly a place for me to upload code *after* finishing a project. I didn't realize that I could have a directory in GitHub and constantly change the versions of scripts or files. Going forward, I plan to do all my work on a GitHub repository to track changes with my code throughout a project. 
+
+
+## Computational Reproducibility
+
+One thing that Wilson et al. suggests as it relates to GitHub/R is the ability to add collaborations on GitHub. Having a repository for a project on GitHub would be advantageous over on a local computer as it is easily accessible when other people begin collaborating on an existing project. Adding collaborators is easy, and they can see what code exists and the changes that have been made.
+
+Using GitHub to store a collaborative project would also necessitate the need for a README file. It's good practice to have a description of the project and files in the repository in the README file. 
+
+Wilson et. al also suggests creating a CONTRIBUTING file where tasks/roles are assigned to those on the project. This can also be created with a to-do list for the collaborators. 
