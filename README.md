@@ -106,4 +106,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub community forum](https://github.community/)
 
 ## ChrisLanger-HW
-* I just pushed the RMD file to my GitHub!
+* I just pushed the RMD file to my GitHub! Now pulling the README file. 
